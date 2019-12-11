@@ -1,0 +1,66 @@
+#top{
+    width:auto;
+    height:50px;
+    background-color: white;
+}
+
+#orange{
+    text-align: left;
+    height:500px;
+    background-image:
+    linear-gradient(
+      to right, 
+      orange,
+      orange 50%,
+      #d8e8db 50%,
+      #d8e8db 100%
+      
+    );
+
+}
+
+#mic{
+    display: inline-block;
+    margin-top: -430px;
+    margin-left:520px;
+    
+}
+#un,#pw{
+    background-color: bisque;
+    opacity:0.8;
+    height: 50px;
+    width:380px;
+    border-radius: 10px;
+    justify-content: center;
+    border:1px orange;
+    
+    font-size: 20px;
+}
+#but{
+    color:orange;
+    background-color: red;
+    border-radius: 20px;
+    height: 80px;
+    width:180px;
+    font-size:30px;
+    
+}
+#form{
+    justify-content: center;
+    margin-top: 80px;
+    
+}
+#head{
+    font-size:30px;
+    font-family: 'Alfa Slab One'; color:black;
+    
+}
+#fbox{
+    display: inline-block;
+    height:400px;
+    width:400px;
+    background-color:white;
+    margin-left: 150px;
+    margin-top: 50px;
+    border: solid 8px #d7e0d9 ;
+    }
